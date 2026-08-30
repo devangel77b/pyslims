@@ -9,8 +9,8 @@ from datetime import datetime
 # Database Configuration
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'YOUR_PASSWORD_HERE',  # Adjust this if your root has a password
+    'user': 'slims_user',
+    'password': 'Fuckslim5!',  # Adjust this if your root has a password
     'database': 'slims_db'
 }
 
